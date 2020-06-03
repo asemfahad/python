@@ -9,5 +9,5 @@ while num_of_triess < 3 :
         exit()
     else:
         print('error')
-        num_of_trys +=1
+        num_of_triess +=1
         print('you have : ' + str( 3- num_of_triess ) + 'left')
